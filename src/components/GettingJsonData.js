@@ -28,6 +28,7 @@ class GettingJsonData extends Component{
                     handleChange={e => this.setState({searchField: e.target.value})}
                 />
                 <CardList monsters={filteredMonsters} />
+                <h1>Prakash</h1>
             </div>
         );
     }
