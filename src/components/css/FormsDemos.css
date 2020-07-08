@@ -1,0 +1,43 @@
+.mainForm{
+    border: black 3px solid;
+    margin: 50px 390px 50px 390px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: grey;
+}
+.focusField{
+    margin-left: 25px;
+}
+.nameField{
+    margin-left: 70px;
+}
+.colorBox{
+    margin: 5px 0px 3px 165px;
+}
+.lists{
+    margin-left: 88px;
+}
+.week{
+    margin-left: 22px;
+}
+.month{
+    margin-left: 30px;
+}
+.email{
+    margin-left: 75px;
+}
+.meter{
+    margin-left: 160px;
+}
+.progress{
+    margin-left: 62px;
+}
+.multipleFiles{
+    margin-left: 105px;
+}
+.submitButton{
+    border: White 2px solid;
+    border-radius: 10px;
+    margin-top: 25px;
+    padding: 7px 37px;
+}

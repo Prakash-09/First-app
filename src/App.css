@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+.appLis{
+  margin:15px;
+}
+.appLink{
+  list-style-type: none;
+  display: inline;
+  margin: 3px;
+}
+header{
+  border: 2px solid black;
+  margin-bottom: 15px;
+  padding:40px;
+  font-size: 30px;
+  color:white;
+  background-color: black;
+  position: sticky;
+  top:0px;
+  width:100%;
+  z-index: 5;
+}
+a{
+  text-decoration: none;
+  border: 2px solid grey;
+  background-color: grey;
+  color: white;
+  border-radius: 15px;
+  padding: 5px;
+  box-shadow: black;
+}
+
